@@ -1,0 +1,26 @@
+#calc-table {
+    background: aqua;
+    font-size: large;
+}
+
+#display {
+    background: orangered;
+}
+
+.button {
+    background: lightgray;
+    min-width: 100%;
+}
+
+.operator {
+    background: black;
+    min-width: 100%;
+}
+
+#equal {
+    background: green;
+}
+
+#clear  {
+    background: darkblue;
+}
